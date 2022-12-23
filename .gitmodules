@@ -1,0 +1,3 @@
+[submodule "src/BayesianNeuralNetwork-Tutorial-Metarepos"]
+	path = src/BayesianNeuralNetwork-Tutorial-Metarepos
+	url = https://github.com/Jason-Toskov/BayesianNeuralNetwork-Tutorial-Metarepos.git
